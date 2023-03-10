@@ -1,0 +1,3 @@
+/home/francisco/CLionProjects/programação por objetos/aula4/cmake-build-debug/CMakeFiles/aula4.dir
+/home/francisco/CLionProjects/programação por objetos/aula4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/francisco/CLionProjects/programação por objetos/aula4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
